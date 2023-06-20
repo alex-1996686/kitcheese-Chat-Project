@@ -1,0 +1,8 @@
+framework:
+  mailer:
+    dsn: '%env(MAILER_DSN)%'
+    headers:
+      from: 'Giscard <giscardnasalan@gmail.com>'
+
+
+
